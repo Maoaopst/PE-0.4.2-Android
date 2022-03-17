@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"iron-bars",
+			"metal",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"metalic-chaos",
+			"metal",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"speedway",
+			"metal",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stardust",
+	"difficulties": "",
+	"weekCharacters": [
+		"metal",
+		"bf",
+		"gf"
+	],
+	"storyName": "METALIX",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
