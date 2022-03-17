@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf bg dancin0000" x="10" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0001" x="10" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0002" x="413" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0003" x="413" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0004" x="816" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0005" x="816" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0006" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0007" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0008" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0009" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0010" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0011" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0012" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0013" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="bf bg dancin0014" x="1219" y="10" width="393" height="419"/>
+	<SubTexture name="sonic bg anim0000" x="1622" y="10" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0001" x="1622" y="10" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0002" x="10" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0003" x="10" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0004" x="336" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0005" x="336" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0006" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0007" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0008" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0009" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0010" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0011" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0012" x="662" y="453" width="316" height="433"/>
+	<SubTexture name="sonic bg anim0013" x="662" y="453" width="316" height="433"/>
+</TextureAtlas>
