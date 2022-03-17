@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonic_dead.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sonic death0000" x="10" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0001" x="683" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0002" x="1356" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0003" x="2029" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0004" x="2702" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0005" x="3375" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0006" x="4048" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0007" x="4721" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0008" x="5394" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0009" x="6067" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0010" x="6740" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0011" x="7413" y="10" width="663" height="569"/>
+	<SubTexture name="sonic death0012" x="10" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0013" x="683" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0014" x="1356" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0015" x="2029" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0016" x="2702" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0017" x="3375" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0018" x="4048" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0019" x="4721" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0020" x="5394" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0021" x="6067" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0022" x="6740" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0023" x="7413" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0024" x="10" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0025" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0026" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0027" x="1356" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0028" x="1356" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0029" x="6740" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0030" x="7413" y="589" width="663" height="569"/>
+	<SubTexture name="sonic death0031" x="10" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0032" x="2029" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0033" x="2029" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0034" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0035" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0036" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0037" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0038" x="683" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0039" x="2702" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0040" x="3375" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0041" x="4048" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0042" x="4721" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0043" x="5394" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0044" x="6067" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0045" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0046" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0047" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0048" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0049" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0050" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0051" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0052" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0053" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0054" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0055" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0056" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death0057" x="6740" y="1168" width="663" height="569"/>
+	<SubTexture name="sonic death confirm0000" x="10" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0001" x="10" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0002" x="828" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0003" x="828" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0004" x="1646" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0005" x="2464" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0006" x="3282" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0007" x="4100" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0008" x="4918" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0009" x="4918" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0010" x="5736" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0011" x="6554" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0012" x="7372" y="1747" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0013" x="10" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0014" x="10" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0015" x="10" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0016" x="10" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0017" x="10" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0018" x="828" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0019" x="1646" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0020" x="2464" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0021" x="3282" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0022" x="4100" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0023" x="4918" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0024" x="5736" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0025" x="6554" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0026" x="7372" y="2445" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0027" x="10" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0028" x="828" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0029" x="1646" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0030" x="2464" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0031" x="3282" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0032" x="3282" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0033" x="4100" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0034" x="4100" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0035" x="4100" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0036" x="4100" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death confirm0037" x="4100" y="3143" width="808" height="688"/>
+	<SubTexture name="sonic death loop0000" x="4918" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0001" x="5599" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0002" x="6280" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0003" x="6961" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0004" x="10" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0005" x="691" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0006" x="1372" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0007" x="2053" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0008" x="2053" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0009" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0010" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0011" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0012" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0013" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0014" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0015" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0016" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0017" x="4918" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0018" x="5599" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0019" x="6280" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0020" x="6961" y="3143" width="671" height="571"/>
+	<SubTexture name="sonic death loop0021" x="10" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0022" x="691" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0023" x="1372" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0024" x="2053" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0025" x="2053" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0026" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0027" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0028" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0029" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0030" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0031" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0032" x="2734" y="3841" width="671" height="571"/>
+	<SubTexture name="sonic death loop0033" x="2734" y="3841" width="671" height="571"/>
+</TextureAtlas>
