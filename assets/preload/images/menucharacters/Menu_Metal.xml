@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Metal.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle story0000" x="10" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0001" x="10" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0002" x="455" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0003" x="455" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0004" x="900" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0005" x="900" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0006" x="1345" y="10" width="435" height="456"/>
+	<SubTexture name="idle story0007" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0008" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0009" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0010" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0011" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0012" x="10" y="476" width="435" height="456"/>
+	<SubTexture name="idle story0013" x="10" y="476" width="435" height="456"/>
+</TextureAtlas>

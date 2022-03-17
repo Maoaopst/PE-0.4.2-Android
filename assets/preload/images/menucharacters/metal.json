@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "idle story",
+	"position": [
+		174,
+		50
+	],
+	"scale": 0.75,
+	"image": "Menu_Metal"
+}
